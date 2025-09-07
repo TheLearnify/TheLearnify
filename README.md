@@ -33,7 +33,7 @@
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=TheLearnify&color=lightgrey" alt="Profile Views" />
   <!-- Contribution Snake Animation (requires GitHub Action setup) -->
-  <img src="https://github.com/TheLearnify/TheLearnify/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github.com/TheLearnify/TheLearnify/blob/main/snake.yml" alt="Contribution Snake" />
   <!-- Dynamic Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" />
 </p>
