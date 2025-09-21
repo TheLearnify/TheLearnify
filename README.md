@@ -59,7 +59,7 @@
 <!--
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/siddhi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:siddhi@example.com"><img src="https://img.shields.io/badge/Email-6e6e6e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="........."><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:....."><img src="https://img.shields.io/badge/Email-6e6e6e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 -->
