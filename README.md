@@ -2,8 +2,9 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheLearnify/TheLearnify/main/banner.png" alt="banner" />
+  <img src="https://github.com/TheLearnify/TheLearnify/blob/main/banner.png?raw=true" alt="banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Siddhi</h1>
 <h3 align="center">💻 Software Developer | ☕ Java Enthusiast | 🚀 Lifelong Learner</h3>
