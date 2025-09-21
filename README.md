@@ -27,7 +27,7 @@
 
 ---
 
-### 🖼️ Aesthetic Widgets
+<!-- ### 🖼️ Aesthetic Widgets -->
 
 <p align="center">
   <!-- Profile Views Counter -->
