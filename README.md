@@ -1,43 +1,64 @@
 <!-- GitHub Profile README for TheLearnify -->
 
-<h1 align="center">Hi 👋, I am Siddhi</h1>
-<h3 align="center">Software Developer</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheLearnify/TheLearnify/main/banner.png" alt="banner" />
+</p>
 
----
-
-### 🛠️ Skills
+<h1 align="center">Hi 👋, I'm Siddhi</h1>
+<h3 align="center">💻 Software Developer | ☕ Java Enthusiast | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Joget-00AEEF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyNScgaGVpZ2h0PScyNScgdmlld0JveD0nMCAwIDI1IDI1Jz48Y2lyY2xlIGN4PScxMicgY3k9JzEyJyByPScxMScgZmlsbD0nIzAwQUVFRicvPjwvc3ZnPg==" alt="Joget" />
-  <img src="https://img.shields.io/badge/Web%20Development-1B1F23?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+✨ Passionate about building scalable systems <br>
+🌱 Currently learning <b>React & DevOps</b> <br>
+🎯 Goal: Become a Big Tech Software Engineer
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLearnify&show_icons=true&theme=light" alt="TheLearnify's GitHub stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLearnify&layout=compact&theme=light" alt="Top Languages" /><br>
-  <img src="https://streak-stats.demolab.com?user=TheLearnify&theme=light" alt="GitHub Streak" /><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=TheLearnify&theme=light&column=7" alt="Trophies" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,react,git,github,linux&theme=light" />
 </p>
 
 ---
 
-<!-- ### 🖼️ Aesthetic Widgets -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheLearnify&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLearnify&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
 <p align="center">
-  <!-- Profile Views Counter -->
+  <img src="https://streak-stats.demolab.com?user=TheLearnify&theme=default&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheLearnify&theme=flat&no-frame=true&column=7" />
+</p>
+
+---
+
+## ✨ Fun & Dynamic
+<p align="center">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=TheLearnify&color=lightgrey" alt="Profile Views" />
-  <!-- Contribution Snake Animation (requires GitHub Action setup) -->
-  <!--<img src="https://github.com/TheLearnify/TheLearnify/blob/main/snake.yml" alt="Contribution Snake" /> -->
-  <!-- Dynamic Quote -->
+  
+  <!-- Random Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" />
 </p>
 
+<p align="center">
+  <!-- Girl Coding GIF -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+</p>
+
 ---
 
-<!-- Optionally add links or contact section here -->
+<!--
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddhi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:siddhi@example.com"><img src="https://img.shields.io/badge/Email-6e6e6e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+-->
